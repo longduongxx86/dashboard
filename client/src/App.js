@@ -48,5 +48,3 @@ function App() {
 }
 
 export default App;
-
-// địt mẹ mày
